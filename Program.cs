@@ -23,7 +23,7 @@
             //Faculty
 
             SchoolDataBase.Add(new Mascot("Chains", 018, "Rottwelier"));
-            SchoolDataBase.Add(new Mascot("Spike", 025, "Bee"));
+            SchoolDataBase.Add(new Mascot("Buddy", 025, "Bear"));
             //Mascot
 
 
